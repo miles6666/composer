@@ -1,0 +1,11 @@
+{
+    "name": "miles/composer_test",
+    "description": "composer_test",
+    "authors": [
+        {
+            "name": "mileswong",
+            "email": "287681195@qq.com"
+        }
+    ],
+    "require": {}
+}
